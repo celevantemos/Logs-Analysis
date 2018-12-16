@@ -1,0 +1,17 @@
+Please wait while calculating the results .......
+
+Top three articles according to page views
+
+1 - Candidate is jerk, alleges rival with a total views of 338647
+2 - Bears love berries, alleges bear with a total views of 253801
+3 - Bad things gone, say good people with a total views of 170098
+
+Top authors by page views
+
+1 - Ursula La Multa --- 507594
+2 - Rudolf von Treppenwitz --- 423457
+3 - Anonymous Contributor --- 170098
+
+Requests with days more than 1% error
+
+17/07/2016 --- 2.26% error
